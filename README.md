@@ -1,5 +1,28 @@
 # IMDB-clone-app
-### creating IMDB clone app by using
-** 1.HTML
-** 2.CSS
-** 3.JacaScript
+ 
+
+## Introduction
+This is a mini IMDb clone app created using vanilla JavaScript. It allows users to search for movies using the OMDB API, view details about a specific movie, and maintain a list of favorite movies.
+
+## Features
+1. **Home Page**
+   - Search for movies with real-time updates.
+   - Add movies to "My Favourite Movies" list.
+   
+2. **Movie Page**
+   - View detailed information about a selected movie.
+
+3. **My Favourite Movies Page**
+   - Display a list of all favorite movies.
+   - Persistent list even after closing/refreshing the browser.
+   - Remove from favorites button for each movie.
+
+## Technologies Used
+- HTML5
+- CSS3 (Bootstrap for styling)
+- JavaScript (Vanilla)
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/imdb-clone.git
