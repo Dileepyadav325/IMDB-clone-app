@@ -1,5 +1,4 @@
 # IMDB-clone-app
- 
 
 ## Introduction
 This is a mini IMDb clone app created using vanilla JavaScript. It allows users to search for movies using the OMDB API, view details about a specific movie, and maintain a list of favorite movies.
@@ -21,8 +20,4 @@ This is a mini IMDb clone app created using vanilla JavaScript. It allows users 
 - HTML5
 - CSS3 (Bootstrap for styling)
 - JavaScript (Vanilla)
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/imdb-clone.git
+  
